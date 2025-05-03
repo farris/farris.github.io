@@ -2,3 +2,26 @@
 ---
 
 @import "minimal-light";
+
+section {
+  padding-top: 7em; /* Adjust this value until satisfied */
+}
+
+// ——————————————————————————————————————————————————
+// AVATAR CIRCLE OVERRIDE
+// ——————————————————————————————————————————————————
+
+/* catch both <img class="avatar"> and an <img> inside a .avatar container */
+// ——————————————————————————————————————————————————
+// AVATAR CIRCLE OVERRIDE
+// ——————————————————————————————————————————————————
+img.avatar,
+.avatar img {
+  width: 200px !important;
+  height: 200px !important;
+  object-fit: cover !important;      /* already cropping to fill */
+  object-position: center 5% !important;  /* shift the image up */
+  display: block !important;
+  border-radius: 50% !important;
+  overflow: hidden !important;
+}

@@ -4,20 +4,14 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Machine Learning Engineer at Mercedes-Benz R&D North America, specializing in the e2e development and integration of LLMs and CV solutions across embedded automotive platforms
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **Accelerated LLM Inference**: tinkering w/ runtimes for non-traditional embedded targets<br>(e.g., llama.cpp, onnx-genai, qnn, mlx) to optimize token throughput & generation ⚡
+- **Model Optimization**: pruning, quantization, distillation, and advanced KV-caching strategies to improve inference efficiency and user experience
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+## ++
+- In my free time I enjoy traveling, working out/hiking, and watching the 49ers 🏈
