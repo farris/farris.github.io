@@ -70,8 +70,8 @@ email: yourname (at) example.edu
 
 # 搜索引擎優化 (SEO)
 keywords: minimal light
-description: 在這裡輸入網頁描述.
-canonical: https://minimal-light-theme.yliu.me/
+description: Farris Atif | Machine Learning Engineer
+canonical: https://farris.github.io/
 
 # 鏈接
 google_scholar: https://scholar.google.com/
